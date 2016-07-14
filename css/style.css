@@ -17,3 +17,6 @@
       .gape{
         margin: 2px 5%;
       }
+label{
+  display: block;
+}      
